@@ -343,13 +343,13 @@ export default function Home() {
             <div className="bg-[#0f1423] rounded-xl overflow-hidden aspect-[16/10] border border-gray-800 group-hover:border-gray-700 transition-all relative">
               <img
                 src="/1 SP.png"
-                alt="Auto Klímek"
+                alt="Xsports Kemp"
                 className="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
               />
             </div>
             <div>
-              <h4 className="font-bold text-base">Auto Klímek</h4>
-              <p className="text-sm text-gray-400">rodinný autoservis</p>
+              <h4 className="font-bold text-base">Xsports Kemp</h4>
+              <p className="text-sm text-gray-400">sportovní kempy a tábory pro děti</p>
             </div>
           </div>
 
@@ -358,13 +358,13 @@ export default function Home() {
             <div className="bg-[#0f1423] rounded-xl overflow-hidden aspect-[16/10] border border-gray-800 group-hover:border-gray-700 transition-all relative">
               <img
                 src="/1 BK.png"
-                alt="Projekt 2"
+                alt="BudeKytka"
                 className="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
               />
             </div>
             <div>
-              <h4 className="font-bold text-base">Projekt 2</h4>
-              <p className="text-sm text-gray-400">Webová prezentace</p>
+              <h4 className="font-bold text-base">BudeKytka</h4>
+              <p className="text-sm text-gray-400">roddiná květinová farma</p>
             </div>
           </div>
 
@@ -373,13 +373,13 @@ export default function Home() {
             <div className="bg-[#0f1423] rounded-xl overflow-hidden aspect-[16/10] border border-gray-800 group-hover:border-gray-700 transition-all relative">
               <img
                 src="/1 KM.png"
-                alt="Projekt 4"
+                alt="Kadeřnictví Magda"
                 className="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
               />
             </div>
             <div>
-              <h4 className="font-bold text-base">Projekt 4</h4>
-              <p className="text-sm text-gray-400">Webová prezentace</p>
+              <h4 className="font-bold text-base">Kadeřnictví Magda</h4>
+              <p className="text-sm text-gray-400">kadeřnický salón</p>
             </div>
           </div>
 
@@ -388,13 +388,13 @@ export default function Home() {
             <div className="bg-[#0f1423] rounded-xl overflow-hidden aspect-[16/10] border border-gray-800 group-hover:border-gray-700 transition-all relative">
               <img
                 src="/1 AK.png"
-                alt="Projekt 5"
+                alt="Auto Klímek"
                 className="absolute inset-0 w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
               />
             </div>
             <div>
-              <h4 className="font-bold text-base">Projekt 5</h4>
-              <p className="text-sm text-gray-400">Webová prezentace</p>
+              <h4 className="font-bold text-base">Auto Klímek</h4>
+              <p className="text-sm text-gray-400">Autoservis</p>
             </div>
           </div>
         </div>
